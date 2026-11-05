@@ -1,0 +1,58 @@
+[
+  {
+    "id": "music",
+    "name": "Music",
+    "slug": "music",
+    "description": "Singers, rappers, producers and instrumentalists",
+    "image_url": null
+  },
+  {
+    "id": "film-tv",
+    "name": "Film & Television",
+    "slug": "film-television",
+    "description": "Actors, directors and screen performers",
+    "image_url": null
+  },
+  {
+    "id": "sports",
+    "name": "Sports",
+    "slug": "sports",
+    "description": "Professional athletes, coaches and sporting icons",
+    "image_url": null
+  },
+  {
+    "id": "influencers",
+    "name": "Influencers",
+    "slug": "influencers",
+    "description": "Digital creators and social media personalities",
+    "image_url": null
+  },
+  {
+    "id": "business",
+    "name": "Business",
+    "slug": "business",
+    "description": "Entrepreneurs, executives and investors",
+    "image_url": null
+  },
+  {
+    "id": "politics",
+    "name": "Politics",
+    "slug": "politics",
+    "description": "Heads of state, leaders and public figures",
+    "image_url": null
+  },
+  {
+    "id": "fashion",
+    "name": "Fashion",
+    "slug": "fashion",
+    "description": "Models, designers and style icons",
+    "image_url": null
+  },
+  {
+    "id": "media",
+    "name": "Media",
+    "slug": "media",
+    "description": "Broadcasters, journalists, comedians and TV personalities",
+    "image_url": null
+  }
+]
